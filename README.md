@@ -1,2 +1,2 @@
 # Day-4-Intership
-I learnt some basic concepts of javascript like data types,function,concatenate etc.
+This web page contains some basic concepts of javascript like data types,function,concatenate etc.
